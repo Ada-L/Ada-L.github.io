@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Ada-L.github.io</id>
     <title>醒钟</title>
-    <updated>2019-07-07T07:56:18.424Z</updated>
+    <updated>2019-12-25T05:32:56.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Ada-L.github.io"/>
     <link rel="self" href="https://Ada-L.github.io/atom.xml"/>
@@ -10,6 +10,41 @@
     <logo>https://Ada-L.github.io/images/avatar.png</logo>
     <icon>https://Ada-L.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 醒钟</rights>
+    <entry>
+        <title type="html"><![CDATA[testtable]]></title>
+        <id>https://Ada-L.github.io/post/testtable</id>
+        <link href="https://Ada-L.github.io/post/testtable">
+        </link>
+        <updated>2019-12-25T05:30:18.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Study</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>12/25</td>
+<td>Management Science</td>
+<td></td>
+</tr>
+<tr>
+<td>12/26</td>
+<td>International Finance</td>
+<td></td>
+</tr>
+<tr>
+<td>12/27</td>
+<td>Marxist ) Suppose now the world financial markets are partially integrated. ABC is nontradable. There is a portfolio of tradable assets (the tradable portfolio). The correlation between ABC and the tradable portfolio is 0.5, the correlation between the US market and the tradable portfolio is 0.6, and the correlation between the tradable portfolio and the world</td>
+<td>Workout</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[那些年的过错和错过：明天会更好]]></title>
         <id>https://Ada-L.github.io/post/na-xie-nian-de-guo-cuo-he-cuo-guo-ming-tian-hui-geng-hao</id>
