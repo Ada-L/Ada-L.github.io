@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Maeve-L.github.io</id>
-    <title>醒钟</title>
-    <updated>2020-02-21T04:43:31.213Z</updated>
+    <title>OptiMaeve</title>
+    <updated>2020-02-21T06:53:32.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Maeve-L.github.io"/>
     <link rel="self" href="https://Maeve-L.github.io/atom.xml"/>
-    <subtitle>日常生活中的警觉和体察。</subtitle>
+    <subtitle>Carve a niche.</subtitle>
     <logo>https://Maeve-L.github.io/images/avatar.png</logo>
     <icon>https://Maeve-L.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 醒钟</rights>
+    <rights>All rights reserved 2020, OptiMaeve</rights>
 </feed>
