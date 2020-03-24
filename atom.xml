@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Maeve-L.github.io</id>
     <title>OptiMaeve</title>
-    <updated>2020-03-24T13:08:55.243Z</updated>
+    <updated>2020-03-24T13:15:01.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Maeve-L.github.io"/>
     <link rel="self" href="https://Maeve-L.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://Maeve-L.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, OptiMaeve</rights>
     <entry>
-        <title type="html"><![CDATA[Portfolio Optimization: Improving Portfolio Performance Through High-dimensional Precision Matrix Estimation (2)]]></title>
+        <title type="html"><![CDATA[Improving Portfolio Performance Through High-dimensional Precision Matrix Estimation (2)]]></title>
         <id>https://Maeve-L.github.io/post/por</id>
         <link href="https://Maeve-L.github.io/post/por">
         </link>
@@ -107,7 +107,7 @@ very badly, unless it is “regularized” in some fashion. Moreover, if the mat
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Portfolio Optimization: Improving Portfolio Performance Through High-dimensional Precision Matrix Estimation (1)]]></title>
+        <title type="html"><![CDATA[Improving Portfolio Performance Through High-dimensional Precision Matrix Estimation (1)]]></title>
         <id>https://Maeve-L.github.io/post/portfolio-optimization-improving-portfolio-performance-through-high-dimensional-precision-matrix-estimation-1</id>
         <link href="https://Maeve-L.github.io/post/portfolio-optimization-improving-portfolio-performance-through-high-dimensional-precision-matrix-estimation-1">
         </link>
