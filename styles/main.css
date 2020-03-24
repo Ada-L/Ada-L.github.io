@@ -312,7 +312,7 @@ html {
 }
 body {
   font-family: Garamond,Baskerville,Baskerville Old Face,Hoefler Text,Times New Roman,serif;
-  font-size: 16px;
+  font-size: 18px;
   color: #333;
   letter-spacing: 0.05em;
 }
@@ -774,8 +774,3 @@ td {
 .hljs-strong {
   font-weight: bold;
 }
-
-      .post-detail .post .post-content p {
-        font-size: 18px;
-      }
-    
