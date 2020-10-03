@@ -776,7 +776,7 @@ td {
 }
 
       .katex {
-    font: normal 1em KaTeX_Main,Times New Roman,serif;
+    font: normal 1.21em KaTeX_Main,Times New Roman,serif;
     font-style: normal;
     font-variant-ligatures: normal;
     font-variant-caps: normal;
@@ -784,10 +784,10 @@ td {
     font-variant-east-asian: normal;
     font-weight: normal;
     font-stretch: normal;
-    font-size: 14px;
-    line-height: 1.2;
+    font-size: 16px;
+    line-height: 1;
     font-family: KaTeX_Main, "Times New Roman", serif;
-    line-height: 1.2;
+    line-height: 1;
     text-indent: 0;
     text-rendering: auto;
 }
